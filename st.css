@@ -1,0 +1,43 @@
+
+div{
+padding: 150px 0px 10px 20px;
+background-color: #191970;
+height: 800px;
+width: 170px;
+
+}
+.dv{
+background-color: #778899;
+padding: 3px 20px 30px 5px;
+border-radius: 10px;
+
+}
+.take{
+padding: 3px 10px 0 10px;
+background-color: #778899;
+width:125px;
+border-radius:5px;
+margin: 0 0 0 4px;
+
+}
+input{
+border: 0;
+}
+.opt{
+color: white;
+height: 5px;
+width: 40px; 
+background-color:black;
+
+}
+.butt{
+text-align: centre;
+font-size: 15px;
+border: solid 5px blue;
+border-radius: 40px;
+color: white;
+background-color:blue;
+padding: 7px 15px 7px 15px;
+
+
+}
